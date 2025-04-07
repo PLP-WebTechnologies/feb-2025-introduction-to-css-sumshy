@@ -1,0 +1,26 @@
+/* Style using ID selector */
+#main-heading {
+    color: darkblue;
+    font-family: 'Georgia', serif;
+    text-align: center;
+    margin-top: 30px;
+}
+
+/* Style using class selector */
+.intro-text {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    color: #333;
+    margin: 20px;
+    padding: 15px;
+    border: 1px solid #ccc;
+}
+
+/* Style the image */
+.styled-image {
+    width: 400px;
+    display: block;
+    margin: 30px auto;
+    border: 5px solid #555;
+    padding: 10px;
+}
